@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AWSExample.SendMessage/.vs
+/AWSExample.SendMessage/bin
+/AWSExample.SendMessage/obj
+/AWSExample.SendMessage.Test/bin/Debug
+/AWSExample.SendMessage.Test/obj
+/chat/node_modules
